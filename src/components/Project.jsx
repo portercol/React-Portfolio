@@ -1,6 +1,11 @@
+// import React
 import React from "react";
 
+// create Project functional component using props
 function Project(props) {
+
+    // return data to the page using props
+    // the properties will come from the projectData
     return (
         <>
         <div className="card m-3 p-3" style={{width: "16rem"}} id={props.id}>
@@ -24,4 +29,5 @@ function Project(props) {
     )
 }
 
+// export Project component
 export default Project;

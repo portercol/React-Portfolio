@@ -1,8 +1,12 @@
+// import React and deconstruct Link from react-router-dom to use link navigation
 import React from "react";
 import { Link } from "react-router-dom";
 
+// create Header functional component
 function Header() {
     
+    // return data to the page using a Navbar-toggler with links to each section of the portfolio
+    // also create icon links for github, linkedIn and resume
     return (   
         <nav className="navbar navbar-expand-lg navbar-dark position-sticky">
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
@@ -33,4 +37,5 @@ function Header() {
     )
 }
 
+// export Header component
 export default Header;

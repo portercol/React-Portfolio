@@ -1,8 +1,11 @@
+// import React and Button component
 import React from "react";
 import Button from "../Button";
 
+// create Contact functional component
 function Contact() {
     
+    // return data to page using cards that hold email, location, name, github link, linkedIn link, resume and buttons to take user to those links
     return (
         <div className="container">
             <div className="row">
@@ -74,4 +77,5 @@ function Contact() {
     );
 }
 
+// export Contact component
 export default Contact;

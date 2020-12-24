@@ -1,8 +1,11 @@
+// import React and Button component
 import React from "react";
 import Button from "../Button";
 
+// create About functional component
 function About() {
 
+    // return data to page using a card with h2 tag, img tag, hr's and p tags & btn to navigate to portfolio page
     return (
         <div className="container">
             <div className="row d-flex justify-content-around">
@@ -25,4 +28,5 @@ function About() {
     );
 }
 
+// export About component
 export default About;

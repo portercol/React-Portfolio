@@ -1,6 +1,10 @@
+// import React
 import React from "react";
 
+// create Footer functional component
 function Footer() {
+    
+    // return data to the page using footer format, store github link in footer as well
     return <footer className="footer mt-5">
         <div className="container-fluid">
             <div className="d-flex justify-content-center">
@@ -11,4 +15,5 @@ function Footer() {
     </footer>;
 }
 
+// export Footer component
 export default Footer;
