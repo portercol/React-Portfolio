@@ -25,6 +25,25 @@ function Contact() {
                     </div>
                 </div>
             </div>
+            <div className="row">
+                <div className="card-group">
+                    <div className="card m-3 p-3 text-center">
+                        <div className="col">
+                                <h2 className="text-capitalize"><i className="fa fa-github"></i> Github</h2>
+                                <hr></hr>
+                                    <a href="https://github.com/portercol" target="_blank" rel="noopener noreferrer" >
+                                        <button id="github" className="btn btn-secondary btn-dark contact-button">
+                                            <strong>view</strong>
+                                        </button>
+                                    </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br></br>
+            <Button btnText="about" link={"/"}/>
+            <br></br>
+            <br></br>
         </div>
     );
 }
