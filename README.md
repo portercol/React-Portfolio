@@ -13,11 +13,11 @@ An updated portfolio using React.js, Bootstrap and new CSS framework. Using 3 co
 
 ## App Images
 About Me
-![React Portfolio](public/images/aboutMeReadme.png)
+![React Portfolio](public/images/aboutMeREADME.png)
 Portfolio
-![React Portfolio](public/images/portfolioReadme.png)
+![React Portfolio](public/images/portfolioREADME.png)
 Contact
-![React Portfolio](public/images/contactReadme.png)
+![React Portfolio](public/images/contactREADME.png)
 
 <hr>
 
