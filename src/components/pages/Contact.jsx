@@ -39,6 +39,19 @@ function Contact() {
                         </div>
                     </div>
                 </div>
+                <div className="card-group">
+                    <div className="card m-3 p-3 text-center">
+                        <div className="col">
+                                <h2 className="text-capitalize"><i className="fa fa-linkedin"></i> LinkedIn</h2>
+                                <hr></hr>
+                                    <a href="https://www.linkedin.com/in/collin-porter-7b65311a8" target="_blank" rel="noopener noreferrer">
+                                        <button id="linkedin" className="btn btn-secondary btn-dark contact-button">
+                                            <strong>view</strong>
+                                        </button>
+                                    </a>
+                        </div>
+                    </div>
+                </div>
             </div>
             <br></br>
             <Button btnText="about" link={"/"}/>
