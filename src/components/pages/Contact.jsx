@@ -52,6 +52,19 @@ function Contact() {
                         </div>
                     </div>
                 </div>
+                <div className="card-group">
+                    <div className="card m-3 p-3 text-center">
+                        <div className="col">
+                                <h2 className="text-capitalize"><i className="fa fa-file-text-o"></i> Resume</h2>
+                                <hr></hr>
+                                    <a href="https://docs.google.com/document/d/1ntZxjSIBELqvqXeJtNiKjHUHoYsBll2aQQ2I90YVXig/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                        <button id="resume" className="btn btn-secondary btn-dark contact-button">
+                                            <strong>view</strong>
+                                        </button>
+                                    </a>
+                        </div>
+                    </div>
+                </div>
             </div>
             <br></br>
             <Button btnText="about" link={"/"}/>
