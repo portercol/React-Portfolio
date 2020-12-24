@@ -15,7 +15,19 @@ function Header() {
                     <Link className="nav-item nav-link" to={"./portfolio"}>Portfolio</Link>
                     <Link className="nav-item nav-link" to={"./contact"}>Contact</Link>
                 </div>
-                
+                <div className="ref-links ml-auto">
+                    <div className="row">
+                        <a className="nav-item nav-link" href="https://github.com/portercol" target="_blank" rel="noopener noreferrer">
+                            <i className="fa fa-github" id="github" ></i>
+                        </a>
+                        <a className="nav-item nav-link" href="https://www.linkedin.com/in/collin-porter-7b65311a8/" target="_blank" rel="noopener noreferrer">
+                            <i className="fa fa-linkedin" id="linkedin" ></i>
+                        </a>
+                        <a className="nav-item nav-link" href="https://docs.google.com/document/d/1ntZxjSIBELqvqXeJtNiKjHUHoYsBll2aQQ2I90YVXig/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+                            <i className="fa fa-file-text-o" id="resume" ></i>
+                        </a>
+                    </div>
+                </div>
             </div>
         </nav>
     )
