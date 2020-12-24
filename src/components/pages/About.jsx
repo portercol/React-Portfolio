@@ -10,9 +10,11 @@ function About() {
                     <h1 className="card-title text-center">Collin Porter</h1>
                     <hr/>
                     <div className="d-flex justify-content-center">
+                        <img src="/images/IMG_2720.jpeg" className="img-fluid w-75 about-img" alt="Profile Pic"></img>
                     </div>
                     <hr/>
                     <div className="card-body text-center">
+                       
                     </div>
                 </div>
             </div>
