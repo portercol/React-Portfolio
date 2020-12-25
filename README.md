@@ -7,7 +7,7 @@ Link to deployed site: [React Portfolio](https://damp-citadel-41611.herokuapp.co
 <hr>
 
 ## Description
-An updated portfolio using React.js, Bootstrap and new CSS framework. Using 3 components that appear on multiple pages; Header, Project & Footer. This porfolio featuers an updated navbar, project cards and contact cards/info. You can find my updated github, linkedIn and resume info in the navbar or on the contact page.
+My updated portfolio using React.js, Bootstrap and a new CSS framework. Using 3 components that appear on multiple pages; Header, Project & Footer. My portfolio features an updated navbar, project cards and contact cards/info. You can find my updated github, linkedIn and resume info in the navbar or on the contact page.
 
 <hr>
 
