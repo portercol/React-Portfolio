@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Link to deployed site: [React Portfolio](https://damp-citadel-41611.herokuapp.com/)
+* Please give Heroku time to load the site
 
 <hr>
 
