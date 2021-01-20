@@ -1,5 +1,14 @@
 [
     {
+        "description": "Secure Web & Mobile-friendly voting made with facial recognition and 2FA.",
+        "id": "sureVote",
+        "img": "/images/sure-vote.png",
+        "link": "https://young-journey-30565.herokuapp.com/",
+        "name": "Sure Vote",
+        "repo": "https://github.com/portercol/sure-vote",
+        "tech": "React.js, JavaScript, Express.js, Passport.js, Nodemailer, Azure API, MongoDB"
+    },
+    {
         "description": "Analyze images, return numerical data, identify socially-perceived emotions.",
         "id": "emote",
         "img": "/images/emote.png",
