@@ -18,9 +18,9 @@ function Contact() {
                                 <p><strong>Collin Porter</strong></p>
                                 <p>Salt Lake City, UT</p>
                                 <p>385.222.1530</p>
-                                <a href="mailto:colls.potta@gmail.com">
+                                <a href="mailto:cporter.dev@gmail.com">
                                     <button id="email" className="btn btn-secondary btn-dark contact-button mb-3">
-                                        colls.potta@gmail.com
+                                        cporter.dev@gmail.com
                                     </button>
                                 </a>
                             </div>
